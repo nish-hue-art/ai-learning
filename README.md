@@ -1,5 +1,4 @@
-# ai-learning
-# AI Learning Journey (Google Colab)
+# AI Learning Journey
 ---
 
 # Week 1
@@ -173,18 +172,4 @@ Built a complete Expense Tracker application that:
 - Generates insights
 - Creates graphical reports
   
----
-
-# Skills Gained
-
-- Python Programming
-- Google Colab
-- Data Structures
-- File Handling
-- Pandas
-- Data Analysis
-- Data Visualization
-- Problem Solving
-- Project Development
-
 ---
